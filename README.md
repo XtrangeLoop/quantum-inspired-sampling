@@ -7,4 +7,4 @@ Sec. III B 2 of Realpe-Gómez, J & Killoran, N.:
 "Quantum-inspired memory-enhanced stochastic algorithms"
 arXiv preprint, 2019. 
 This example was implemented experimentally with quantum
-technologies by Ghafari et al. (see arXiv:1812.04251)
+technologies by Ghafari et al. (see arXiv:1812.04251).
